@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="left">Hi there, I'm Revan 👋</h1>
 <h3 align="left">Backend Developer | Java Enthusiast | Code Architect in the Making</h3>
 
