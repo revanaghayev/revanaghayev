@@ -1,6 +1,6 @@
 ## Hi there 👋
-<h1 align="center">Hi there, I'm Revan 👋</h1>
-<h3 align="center">Backend Developer | Java Enthusiast | Code Architect in the Making</h3>
+<h1 align="left">Hi there, I'm Revan 👋</h1>
+<h3 align="left">Backend Developer | Java Enthusiast | Code Architect in the Making</h3>
 
 ---
 
